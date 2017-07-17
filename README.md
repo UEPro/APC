@@ -11,8 +11,7 @@ Vielen Dank, dass ihr beim Workshop mitgemacht habt. Es hat mir riesigen Spaß g
 
 Dieses Archiv ist noch ziemlich leer, ich werde es aber diese Woche füllen. Wenn ihr ab Montag wieder kommt, sollte alles hier sein.
 
-Solltet ihr irgendwelche Fragen oder Probleme haben, schreibt mir einfach über github oder an <a href="mailto:robert.valdimarsson@posteo.net?subject=githubAPC">
-robert.valdimarsson@posteo.net</a>
+Solltet ihr irgendwelche Fragen oder Probleme haben, schreibt mir einfach über github oder an <a href="mailto:robert.valdimarsson%40posteo.net?subject=github%20APC">robert.valdimarsson@posteo.net</a>
 
 Nochmals Danke für die tolle Zeit mit euch und das nette Feedback :) Ich hoffe man sieht sich wieder.
 
